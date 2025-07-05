@@ -49,6 +49,6 @@ To build a Decision Tree classifier that predicts whether a passenger survived b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/okeyirobbinson/Decision-tree-project.git
+   git clone https://github.com/Data-enthusiast8888/Decision-tree-project.git
    cd Decision-tree-project
 
