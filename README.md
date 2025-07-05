@@ -9,10 +9,8 @@ This project explores how decision trees can be used to predict passenger surviv
   - `Pclass` (Ticket class)
   - `Sex`
   - `Age`
-  - `SibSp` (Siblings/Spouses aboard)
-  - `Parch` (Parents/Children aboard)
   - `Fare`
-  - `Embarked`
+    
 
 ## 🎯 Objective
 
